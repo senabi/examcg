@@ -1,6 +1,6 @@
 # examcg
 Resolucion, archivo con las transformaciones
-> [index.js](https://github.com/senabi/examcg/blob/main/src/index.js#L57)
+> [src/index.js](https://github.com/senabi/examcg/blob/main/src/index.js#L57)
 
 
 Instalar yarn
